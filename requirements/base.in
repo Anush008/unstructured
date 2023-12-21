@@ -1,19 +1,19 @@
 -c "constraints.in"
+backoff
+beautifulsoup4
 chardet
+dataclasses-json
+emoji
 filetype
-python-magic
+langdetect
 lxml
 nltk
-tabulate
-requests
-beautifulsoup4
-emoji
-dataclasses-json
-python-iso639
-langdetect
 numpy
+python-iso639
+python-magic
 rapidfuzz
-backoff
+requests
+tabulate
 typing-extensions
 # NOTE(jennings): pinned due to later versions not supporting api_key_auth in UnstructuredClient
 unstructured-client>=0.9.0
