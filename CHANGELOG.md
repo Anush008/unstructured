@@ -1,10 +1,12 @@
-## 0.11.7-dev0
+## 0.11.7-dev1
 
 ### Enhancements
 
 ### Features
 
 ### Fixes
+
+* **Pins version of unstructured-client** Sets minimum version of unstructured-client to avoid raising a TypeError when passing `api_key_auth` to `UnstructuredClient`
 
 ## 0.11.6
 
